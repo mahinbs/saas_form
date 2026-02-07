@@ -277,6 +277,58 @@ export default function AgreementsSection({ formData, onChange }: AgreementsSect
       
       <h3 style="font-size: 1.25rem; font-weight: bold; margin-top: 1.5rem; margin-bottom: 1rem; color: #0f172a;">11. Survival</h3>
       <p style="margin-bottom: 2rem;">All confidentiality, non disparagement, remedy, and enforcement obligations under this NDA shall survive termination or expiration of the Master Services Agreement.</p>
+      
+      <hr style="margin: 3rem 0; border: none; border-top: 2px solid #e2e8f0;" />
+      
+      <h2 style="font-size: 1.5rem; font-weight: bold; margin-top: 2rem; margin-bottom: 1.5rem; color: #0f172a;">LIQUIDATED DAMAGES & PENALTY CLAUSES</h2>
+      <p style="margin-bottom: 1.5rem;">You acknowledge that certain breaches of this Agreement would cause substantial harm to Boostmysites, the extent of which may be difficult to precisely quantify. Accordingly, by agreeing to this Agreement, you agree to the following liquidated damages, which represent a genuine pre-estimate of loss and are not penalties.</p>
+      <hr style="margin: 2rem 0; border: none; border-top: 1px solid #e2e8f0;" />
+      
+      <h3 style="font-size: 1.25rem; font-weight: bold; margin-top: 1.5rem; margin-bottom: 1rem; color: #0f172a;">Clause A – Minor to Moderate Breach (₹10,00,000 – Ten Lakhs INR)</h3>
+      <p style="margin-bottom: 0.75rem;">If you breach non-critical obligations under this Agreement, including but not limited to:</p>
+      <ul style="margin-left: 1.5rem; margin-bottom: 1rem;">
+        <li>Delays or failures in providing required inputs</li>
+        <li>Unauthorized sharing of non-sensitive project information</li>
+        <li>Violation of communication protocols</li>
+        <li>Misuse of deliverables beyond the agreed scope</li>
+        <li>Breach of non-transfer, non-assignment, or usage restrictions</li>
+      </ul>
+      <p style="margin-bottom: 1.5rem;">You shall be liable to pay Boostmysites liquidated damages of ₹10,00,000 (Ten Lakhs INR) per occurrence, without prejudice to Boostmysites' right to seek additional remedies.</p>
+      <hr style="margin: 2rem 0; border: none; border-top: 1px solid #e2e8f0;" />
+      
+      <h3 style="font-size: 1.25rem; font-weight: bold; margin-top: 1.5rem; margin-bottom: 1rem; color: #0f172a;">Clause B – Confidentiality, Reputation & NDA Breach (₹50,00,000 – Fifty Lakhs INR)</h3>
+      <p style="margin-bottom: 0.75rem;">If you:</p>
+      <ul style="margin-left: 1.5rem; margin-bottom: 1rem;">
+        <li>Breach any confidentiality or NDA obligations</li>
+        <li>Disclose Confidential Information to unauthorized third parties</li>
+        <li>Publish misleading, defamatory, or malicious reviews, testimonials, or public statements</li>
+        <li>Share internal documents, strategies, pricing, or proprietary materials</li>
+        <li>Cause reputational harm to Boostmysites directly or indirectly</li>
+      </ul>
+      <p style="margin-bottom: 1.5rem;">You shall be liable to pay liquidated damages of ₹50,00,000 (Fifty Lakhs INR) per breach, in addition to immediate injunctive relief, removal of such content, and recovery of legal enforcement costs. You acknowledge that reputational harm and loss of goodwill constitute irreparable damage.</p>
+      <hr style="margin: 2rem 0; border: none; border-top: 1px solid #e2e8f0;" />
+      
+      <h3 style="font-size: 1.25rem; font-weight: bold; margin-top: 1.5rem; margin-bottom: 1rem; color: #0f172a;">Clause C – Critical Breach / IP Misuse / Fraudulent Conduct (₹1,00,00,000 – One Crore INR)</h3>
+      <p style="margin-bottom: 0.75rem;">In the event of any material or critical breach, including but not limited to:</p>
+      <ul style="margin-left: 1.5rem; margin-bottom: 1rem;">
+        <li>Theft, replication, resale, or reverse engineering of Boostmysites IP, code, frameworks, or methodologies</li>
+        <li>Unauthorized commercial exploitation of deliverables</li>
+        <li>Willful payment default combined with continued use of services</li>
+        <li>Fraud, misrepresentation, or intentional harm to Boostmysites</li>
+        <li>Any act causing severe financial, legal, or brand damage</li>
+      </ul>
+      <p style="margin-bottom: 1.5rem;">You shall be liable to pay liquidated damages of ₹1,00,00,000 (One Crore INR) per incident. This is without limitation to Boostmysites' right to terminate the Agreement immediately, seek criminal or civil remedies, and claim additional damages exceeding the liquidated amount where permitted by law.</p>
+      <hr style="margin: 2rem 0; border: none; border-top: 1px solid #e2e8f0;" />
+      
+      <h3 style="font-size: 1.25rem; font-weight: bold; margin-top: 1.5rem; margin-bottom: 1rem; color: #0f172a;">Cumulative Remedies & Enforcement</h3>
+      <p style="margin-bottom: 0.75rem;">Payment of liquidated damages shall not be Boostmysites' sole or exclusive remedy. In addition to liquidated damages, Boostmysites shall be entitled to:</p>
+      <ul style="margin-left: 1.5rem; margin-bottom: 1rem;">
+        <li>Seek injunctive relief to prevent actual or threatened breaches</li>
+        <li>Pursue equitable remedies, including specific performance</li>
+        <li>Recover all legal costs, attorney fees, court fees, and enforcement expenses</li>
+        <li>Claim additional damages where actual losses exceed the liquidated damages amount</li>
+      </ul>
+      <p style="margin-bottom: 2rem;">You expressly agree that these liquidated damages represent a genuine pre-estimate of loss, that monetary compensation alone may be insufficient to remedy certain breaches, and that Boostmysites shall not be required to prove actual damages for enforcement. This clause shall survive the termination or expiration of this Agreement.</p>
     </div>
   `;
 
